@@ -9,6 +9,8 @@ function App() {
   const addV = () => {
     // sc += 1;
     setCounter(c + 1)
+    setCounter(c + 2)
+    setCounter(c + 10)
   };
   const remV = () => {
 
